@@ -1,0 +1,48 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "files.autoSaveDelay": 60000,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.bracketSameLine": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "html.autoClosingTags": false,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "editor.minimap.enabled": false,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "html.format.wrapLineLength": 0,
+    "editor.wordWrap": "bounded",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "html.hover.references": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "stylelint.config": {
+        
+
+    
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.startupEditor": "none",
+    "l13Projects.confirmDeleteProject": false,
+    "projectManager.tags": [
+        "My own",
+        "General",
+        "HTMLacademy",
+        "RS School"
+    ],
+    "explorer.confirmDelete": false,
+    "remoteHub.commitDirectlyWarning": "off",
+}
